@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154513094019",
+    "project_id": "nestcareapp-97621",
+    "storage_bucket": "nestcareapp-97621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154513094019:android:e54181d8da40b1c978f2b6",
+        "android_client_info": {
+          "package_name": "com.nestcareuser_pranvi.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154513094019-sgofrtrvdlhh4evc196q4fc4ea883joi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0qGt6aty77FwNQMvou-x-VGLxLTS_SkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154513094019-sgofrtrvdlhh4evc196q4fc4ea883joi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

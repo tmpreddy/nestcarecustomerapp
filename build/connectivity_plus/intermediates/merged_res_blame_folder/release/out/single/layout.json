@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\connectivity_plus\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\cdd2f8c5bc680263eb883a82bbc7ec7d\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\connectivity_plus\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\cdd2f8c5bc680263eb883a82bbc7ec7d\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\connectivity_plus\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\cdd2f8c5bc680263eb883a82bbc7ec7d\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\connectivity_plus\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\cdd2f8c5bc680263eb883a82bbc7ec7d\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\connectivity_plus\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\cdd2f8c5bc680263eb883a82bbc7ec7d\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\connectivity_plus\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\cdd2f8c5bc680263eb883a82bbc7ec7d\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    }
+]

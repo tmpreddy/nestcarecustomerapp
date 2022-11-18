@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\3b6f20e6b11ab4442f9db6fdee9715b9\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\3b6f20e6b11ab4442f9db6fdee9715b9\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\3b6f20e6b11ab4442f9db6fdee9715b9\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\3b6f20e6b11ab4442f9db6fdee9715b9\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\3b6f20e6b11ab4442f9db6fdee9715b9\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

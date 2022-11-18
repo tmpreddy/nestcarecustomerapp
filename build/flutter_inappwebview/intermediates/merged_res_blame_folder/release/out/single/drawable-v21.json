@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\a0a4283aa656d43781b837eb545a69b7\\transformed\\appcompat-1.5.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\a0a4283aa656d43781b837eb545a69b7\\transformed\\appcompat-1.5.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\3b6f20e6b11ab4442f9db6fdee9715b9\\transformed\\core-1.8.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\a0a4283aa656d43781b837eb545a69b7\\transformed\\appcompat-1.5.1\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\a0a4283aa656d43781b837eb545a69b7\\transformed\\appcompat-1.5.1\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\a0a4283aa656d43781b837eb545a69b7\\transformed\\appcompat-1.5.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

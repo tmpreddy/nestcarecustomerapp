@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\menu\\paymentsheet_payment_methods_list.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\4940c3e4b81832d13ef07aa750c6c23f\\transformed\\jetified-paymentsheet-20.4.0\\res\\menu\\paymentsheet_payment_methods_list.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\menu\\add_payment_method.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\b1ed4929580d42326b1166aef4d93071\\transformed\\jetified-payments-core-20.4.0\\res\\menu\\add_payment_method.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\menu\\example_menu2.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\9188536a5ef77dc6674ae35bc72195d7\\transformed\\core-1.7.0\\res\\menu\\example_menu2.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\menu\\payment_auth_web_view_menu.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\b1ed4929580d42326b1166aef4d93071\\transformed\\jetified-payments-core-20.4.0\\res\\menu\\payment_auth_web_view_menu.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\menu\\example_menu.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\9188536a5ef77dc6674ae35bc72195d7\\transformed\\core-1.7.0\\res\\menu\\example_menu.xml"
+    }
+]

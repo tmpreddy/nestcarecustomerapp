@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\nb_utils\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\9188536a5ef77dc6674ae35bc72195d7\\transformed\\core-1.7.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\nb_utils\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\7d7fdc348d320069e2939fc97de1d0d1\\transformed\\appcompat-1.4.2\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\nb_utils\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\7d7fdc348d320069e2939fc97de1d0d1\\transformed\\appcompat-1.4.2\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\nb_utils\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\7d7fdc348d320069e2939fc97de1d0d1\\transformed\\appcompat-1.4.2\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\nb_utils\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\7d7fdc348d320069e2939fc97de1d0d1\\transformed\\appcompat-1.4.2\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\nb_utils\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\7d7fdc348d320069e2939fc97de1d0d1\\transformed\\appcompat-1.4.2\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\googlepay_button_content.xml",
+        "source": "D:\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\stripe_android-4.0.0\\android\\src\\main\\res\\drawable-night\\googlepay_button_content.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\stripe_ic_unknown.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\889742434e27c42f45df9bea2c53d3f4\\transformed\\jetified-payments-model-20.4.0\\res\\drawable-night-v8\\stripe_ic_unknown.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\pay_with_googlepay_button_content.xml",
+        "source": "D:\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\stripe_android-4.0.0\\android\\src\\main\\res\\drawable-night\\pay_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\stripe_googlepay_button_overlay.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\4940c3e4b81832d13ef07aa750c6c23f\\transformed\\jetified-paymentsheet-20.4.0\\res\\drawable-night-v8\\stripe_googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\stripe_3ds2_ic_arrow.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\6e74241af2a41ab6e514ef840032e62a\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\drawable-night-v8\\stripe_3ds2_ic_arrow.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\stripe_ic_paymentsheet_cvc.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\b1ed4929580d42326b1166aef4d93071\\transformed\\jetified-payments-core-20.4.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_cvc.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\googlepay_button_overlay.xml",
+        "source": "D:\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\stripe_android-4.0.0\\android\\src\\main\\res\\drawable-night\\googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\stripe_ic_cvc.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\889742434e27c42f45df9bea2c53d3f4\\transformed\\jetified-payments-model-20.4.0\\res\\drawable-night-v8\\stripe_ic_cvc.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\stripe_ic_affirm_logo.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\789f71646b428a32c8195d33ab4a28de\\transformed\\jetified-payments-ui-core-20.4.0\\res\\drawable-night-v8\\stripe_ic_affirm_logo.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\drawable-night-v8\\stripe_ic_cvc_amex.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\889742434e27c42f45df9bea2c53d3f4\\transformed\\jetified-payments-model-20.4.0\\res\\drawable-night-v8\\stripe_ic_cvc_amex.xml"
+    }
+]

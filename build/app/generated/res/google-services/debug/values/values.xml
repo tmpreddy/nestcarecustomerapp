@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">154513094019-sgofrtrvdlhh4evc196q4fc4ea883joi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">154513094019</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0qGt6aty77FwNQMvou-x-VGLxLTS_SkU</string>
+    <string name="google_app_id" translatable="false">1:154513094019:android:e54181d8da40b1c978f2b6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0qGt6aty77FwNQMvou-x-VGLxLTS_SkU</string>
+    <string name="google_storage_bucket" translatable="false">nestcareapp-97621.appspot.com</string>
+    <string name="project_id" translatable="false">nestcareapp-97621</string>
+</resources>

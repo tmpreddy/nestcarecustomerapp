@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\anim-v21\\mtrl_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\da5fbd7af32009fcd8622180c4d4312c\\transformed\\material-1.6.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\anim-v21\\fragment_fast_out_extra_slow_in.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\18eafb57470af68d043e6b788af97c1f\\transformed\\fragment-1.4.1\\res\\anim-v21\\fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\anim-v21\\mtrl_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\da5fbd7af32009fcd8622180c4d4312c\\transformed\\material-1.6.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\da5fbd7af32009fcd8622180c4d4312c\\transformed\\material-1.6.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\NOV_07_2022_HANDYMAN\\handyman_user_flutter\\build\\stripe_android\\intermediates\\merged_res\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\tmpre\\.gradle\\caches\\transforms-3\\da5fbd7af32009fcd8622180c4d4312c\\transformed\\material-1.6.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
